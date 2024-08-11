@@ -1,0 +1,26 @@
+a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+// .dropdown-toggle::after {
+//     content: ""; /* 替換為你想要的符號 */
+//     color: $success; /* 如有需要，也可以改變顏色 */
+//     font-size: 1.5rem; /* 調整符號的大小 */
+//     margin-left: 9px; /* 調整與文字之間的距離 */
+// }

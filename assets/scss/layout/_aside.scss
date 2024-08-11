@@ -1,0 +1,20 @@
+.aside {
+  width: 296px;
+  li {
+    a {
+      height: 32px;
+    }
+    a:hover {
+      color: $success;
+      border-color: $success !important;
+    }
+  }
+  .active {
+    color: $success;
+    border-color: $success !important;
+  }
+  .mailto {
+    font-size: 14px;
+    // line-height: 24px;
+  }
+}

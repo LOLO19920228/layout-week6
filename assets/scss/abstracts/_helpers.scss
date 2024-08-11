@@ -1,0 +1,15 @@
+// .productColor {
+//   height: 24px;
+//   width: 24px;
+//   border-radius: 4px;
+// }
+code {
+  font-family: "Roboto Mono", monospace;
+  color: $success;
+}
+.main{
+  width: calc(100% - 296px);
+  margin-left: auto;
+  padding-left: 32px;
+  padding-right: 32px;
+}
